@@ -1,0 +1,20 @@
+1.
+	a: 1
+	b: n
+	c: n^2
+	d: logn
+2.
+	a: n
+	b: n^2
+	c: n
+	
+3.
+	a: n
+	b: n
+	c: n
+	d: n
+4.
+	a: n
+	b: n
+	C: 1
+	d: n
